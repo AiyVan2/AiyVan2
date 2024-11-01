@@ -11,14 +11,11 @@
 
 - 👯 I’m looking to collaborate on **Untitled Metroidvania Game**
 
-- 🤝 I’m looking for help with **Pixel Artist**
+- 🤝 I’m looking for help with **Pixel Art**
 
 - 📫 How to reach me **charlesivanbrena@gmail.com**
 
 - ⚡ Fun fact **I debug games in my dreams and sometimes find actual solutions!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
